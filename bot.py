@@ -64,19 +64,19 @@ Hit help button to find out more about how to use me</b>""",
 
                                         InlineKeyboardButton('🆘 Help', callback_data="help"),
 
-                                        InlineKeyboardButton('👥 Support', url='https://telegram.me/YOUTUBEVIDEODOWNLOADER')
+                                        InlineKeyboardButton('👥 Support', url='https://t.me/download_youtube_video_in_tg')
 
                                     ],[
 
-                                        InlineKeyboardButton('👮 Owner', url='https://t.me/DARKZACKER'),
+
 
                                         InlineKeyboardButton('🤖 BotsList', url='https://t.me/+IezzVbvzlKxlODY1'),
 
-                                        InlineKeyboardButton('Channel 📢', url='https://t.me/GreyMatter_BOTS')
+                                        InlineKeyboardButton('Channel 📢', url='https://t.me/download_youtube_video_in_tg' )
 
                                     ],[
 
-                                        InlineKeyboardButton('⭕ Source-GitHub ⭕', url='https://github.com/GreyMatte658/TG-YouTube-Uploader'),
+                                        InlineKeyboardButton('⭕ Source-GitHub ⭕', url='https://github.com/nivedh489/TG-YouTube-Uploader-get2'),
 
                                     ]]
 
@@ -116,15 +116,15 @@ Just send a Youtube url to download it in video or audio format!
 
                                   ],[
 
-                                        InlineKeyboardButton("👮 Owner", url="https://t.me/DARK"),
+
 
                                         InlineKeyboardButton("🤖 Bot List", url="https://t.me/+IezzVbvzlKxlODY1"),
 
-                                        InlineKeyboardButton('Channel 📢', url="https://t.me/GreyMatter_bBOTs")
+                                        InlineKeyboardButton('Channel 📢', url="https://t.me/download_youtube_video_in_tg")
 
                                     ],[
 
-                                        InlineKeyboardButton("⭕Source Code -GitHub⭕", url="https://github.com/GreyMatter658/TG-YouTube-Uploader"),
+                                        InlineKeyboardButton("⭕Source Code -GitHub⭕", url="https://github.com/nivedh489/TG-YouTube-Uploader-get2"),
 
                                     ]]
 
@@ -148,15 +148,15 @@ async def about(client, message):
 
 <b>👨‍💻 Developer:</b> <a href="https://t.me/PredatorHackerzZ_BOTS">Predator 🇮🇳</a>
 
-<b>💁‍♂️ Support:</b> <a href="https://telegram.me/greymatters_BOTS_discussion">GreyMatter's Support</a>
+<b>💁‍♂️ Support:</b> <a href="https://t.me/download_youtube_video_in_tg">GreyMatter's Support</a>
 
-<b>😇 Channel :</b> <a href="https://t.me/GreyMatter_BOTS">GreyMatter's Bot </a>
+<b>😇 Channel :</b> <a href="https://t.me/download_youtube_video_in_tg">GreyMatter's Bot </a>
 
 <b>📚 Library:</b> <a href="https://github.com/pyrogram/pyrogram">Pyrogram</a>
 
 <b>🤖 BotList :</b> <a href="https://t.me/+IezzVbvzlKxlODY1"> Telegram Bots </a>
 
-<b>👤 Source : </b> <a href="https://github.com/GreyMatte658/TG-YouTube-Uploader"> Click Here </a>
+<b>👤 Source : </b> <a href="https://github.com/nivedh489/TG-YouTube-Uploader-get2"> Click Here </a>
 
 <b>~ @GreyMatter_bots</b>""",
 
