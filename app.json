@@ -8,9 +8,9 @@
         "Telegram Bot",
         "GreyMatter's Bot"
     ],
-    "website": "https://telegram.dog/GreyMatter_bots",
-    "repository": "https://github.com/nivedh489/TG-Youtube-Uploader-get2,
-    "success_url": "https://telegram.dog/GreyMatter_bots",
+    "website": "https://telegram.dog/GreyMatter_BOTSs",
+    "repository": "https://github.com/nivedh489/TG-Youtube-Uploader-get2",
+    "success_url": "https://telegram.dog/GreyMatter_BOTs",
     "env": {
         "TG_BOT_TOKEN": {
             "description": "Your Telegram Bot Token from @BotFather",
